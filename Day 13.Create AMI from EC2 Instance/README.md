@@ -1,8 +1,68 @@
-The Nautilus DevOps team is strategizing the migration of a portion of their infrastructure to the AWS cloud. Recognizing the scale of this undertaking, they have opted to approach the migration in incremental steps rather than as a single massive transition. To achieve this, they have segmented large tasks into smaller, more manageable units. This granular approach enables the team to execute the migration in gradual phases, ensuring smoother implementation and minimizing disruption to ongoing operations. By breaking down the migration into smaller tasks, the Nautilus DevOps team can systematically progress through each stage, allowing for better control, risk mitigation, and optimization of resources throughout the migration process.
+####  Step-by-Step Instructions (AWS Console)
+1. Log in to AWS Console
 
-For this task, create an AMI from an existing EC2 instance named devops-ec2 with the following requirement:
+Use your lab credentials and ensure the region is us-east-1.
 
-Name of the AMI should be devops-ec2-ami, make sure AMI is in available state.
+2. Navigate to the EC2 Instance
 
+Go to EC2 service
 
+Click Instances
 
+Find and select the instance named devops-ec2
+
+Ensure:
+
+It is in running state (recommended)
+
+![alt text](image.png)
+
+3. Create the AMI
+
+With devops-ec2 selected:
+
+Click Actions
+
+Select Image and templates
+
+Click Create image
+
+A form will appear.
+
+Fill in the required details:
+
+Image name: devops-ec2-ami
+
+Image description: (optional)
+
+No reboot:
+
+Default (reboot allowed) is safer and recommended.
+
+Click Create image
+
+AWS will now start generating the AMI.
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+4. Verify AMI Creation
+
+Go to Images → AMIs in the left EC2 menu.
+
+Ensure Owned by me is selected.
+
+Find AMI named devops-ec2-ami
+
+Initially, the State will show:
+
+pending
+
+Wait until it becomes:
+
+available
+
+This may take a few minutes depending on instance size.
+
+![alt text](image-3.png)
