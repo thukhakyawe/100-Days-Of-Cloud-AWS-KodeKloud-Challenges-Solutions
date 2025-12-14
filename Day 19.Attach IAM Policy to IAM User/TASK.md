@@ -1,0 +1,3 @@
+The Nautilus DevOps team has been creating a couple of services on AWS cloud. They have been breaking down the migration into smaller tasks, allowing for better control, risk mitigation, and optimization of resources throughout the migration process. Recently they came up with requirements mentioned below.
+
+An IAM user named iamuser_john and a policy named iampolicy_john already exist. Attach the IAM policy iampolicy_john to the IAM user iamuser_john.
