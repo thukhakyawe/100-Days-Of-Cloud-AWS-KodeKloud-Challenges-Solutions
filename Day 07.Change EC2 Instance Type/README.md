@@ -1,5 +1,5 @@
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%206.Launch%20EC2%20Instance) | [Next Day ▶️](../Day%208.Enable%20Stop%20Protection%20for%20EC2%20Instance)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2006.Launch%20EC2%20Instance) | [Next Day ▶️](../Day%2008.Enable%20Stop%20Protection%20for%20EC2%20Instance)
 <!-- NAV_END -->
 
 ### Step-by-Step Instructions (AWS Console)
@@ -76,5 +76,5 @@ Status checks: Pass 2/2
 ---
 
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%206.Launch%20EC2%20Instance) | [Next Day ▶️](../Day%208.Enable%20Stop%20Protection%20for%20EC2%20Instance)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2006.Launch%20EC2%20Instance) | [Next Day ▶️](../Day%2008.Enable%20Stop%20Protection%20for%20EC2%20Instance)
 <!-- NAV_END -->

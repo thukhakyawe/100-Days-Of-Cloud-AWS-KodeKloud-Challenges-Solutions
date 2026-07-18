@@ -1,5 +1,5 @@
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [Next Day ▶️](../Day%202.Create%20Security%20Group)
+[⬅️ Back to Main README](../README.md) | [Next Day ▶️](../Day%2002.Create%20Security%20Group)
 <!-- NAV_END -->
 
 ### Steps to create key pair via AWS Console:
@@ -67,5 +67,5 @@ You'll use this key to connect to EC2 instances later
 ---
 
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [Next Day ▶️](../Day%202.Create%20Security%20Group)
+[⬅️ Back to Main README](../README.md) | [Next Day ▶️](../Day%2002.Create%20Security%20Group)
 <!-- NAV_END -->

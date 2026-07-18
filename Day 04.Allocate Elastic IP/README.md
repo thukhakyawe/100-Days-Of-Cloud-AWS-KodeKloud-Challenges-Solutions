@@ -1,5 +1,5 @@
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%203.Create%20Subnet) | [Next Day ▶️](../Day%205.Create%20GP3%20Volume)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2003.Create%20Subnet) | [Next Day ▶️](../Day%2005.Create%20GP3%20Volume)
 <!-- NAV_END -->
 
 ###  Steps to Allocate and Name an Elastic IP
@@ -53,5 +53,5 @@ Save the changes.
 ---
 
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%203.Create%20Subnet) | [Next Day ▶️](../Day%205.Create%20GP3%20Volume)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2003.Create%20Subnet) | [Next Day ▶️](../Day%2005.Create%20GP3%20Volume)
 <!-- NAV_END -->

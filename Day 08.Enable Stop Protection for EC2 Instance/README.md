@@ -1,5 +1,5 @@
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%207.Change%20EC2%20Instance%20Type) | [Next Day ▶️](../Day%209.Enable%20Termination%20Protection%20for%20EC2%20Instance)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2007.Change%20EC2%20Instance%20Type) | [Next Day ▶️](../Day%2009.Enable%20Termination%20Protection%20for%20EC2%20Instance)
 <!-- NAV_END -->
 
 ###  Step-by-Step Instructions (AWS Console)
@@ -47,5 +47,5 @@ Click Save
 ---
 
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%207.Change%20EC2%20Instance%20Type) | [Next Day ▶️](../Day%209.Enable%20Termination%20Protection%20for%20EC2%20Instance)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2007.Change%20EC2%20Instance%20Type) | [Next Day ▶️](../Day%2009.Enable%20Termination%20Protection%20for%20EC2%20Instance)
 <!-- NAV_END -->

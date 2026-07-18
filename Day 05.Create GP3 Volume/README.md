@@ -1,5 +1,5 @@
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%204.Allocate%20Elastic%20IP) | [Next Day ▶️](../Day%206.Launch%20EC2%20Instance)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2004.Allocate%20Elastic%20IP) | [Next Day ▶️](../Day%2006.Launch%20EC2%20Instance)
 <!-- NAV_END -->
 
 ###  Step-by-Step Instructions (AWS Console)
@@ -44,5 +44,5 @@ Click Create volume.
 ---
 
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%204.Allocate%20Elastic%20IP) | [Next Day ▶️](../Day%206.Launch%20EC2%20Instance)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2004.Allocate%20Elastic%20IP) | [Next Day ▶️](../Day%2006.Launch%20EC2%20Instance)
 <!-- NAV_END -->

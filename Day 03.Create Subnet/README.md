@@ -1,5 +1,5 @@
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%202.Create%20Security%20Group) | [Next Day ▶️](../Day%204.Allocate%20Elastic%20IP)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2002.Create%20Security%20Group) | [Next Day ▶️](../Day%2004.Allocate%20Elastic%20IP)
 <!-- NAV_END -->
 
 The Nautilus DevOps team is strategizing the migration of a portion of their infrastructure to the AWS cloud. Recognizing the scale of this undertaking, they have opted to approach the migration in incremental steps rather than as a single massive transition.
@@ -15,5 +15,5 @@ Start Time 	Sat Dec 06 09:17:13 UTC 2025
 End Time 	Sat Dec 06 10:17:13 UTC 2025
 
 <!-- NAV_START -->
-[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%202.Create%20Security%20Group) | [Next Day ▶️](../Day%204.Allocate%20Elastic%20IP)
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2002.Create%20Security%20Group) | [Next Day ▶️](../Day%2004.Allocate%20Elastic%20IP)
 <!-- NAV_END -->

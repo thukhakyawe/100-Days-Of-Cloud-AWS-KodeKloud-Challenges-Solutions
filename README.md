@@ -54,17 +54,17 @@ Each day contains:
 ## 📅 50 Days Challenge Breakdown
 
 ### 🔹 Week 1: EC2 & Storage Fundamentals
-- [Day 1. Create Key Pair](./Day%201.Create%20Key%20Pair)
-- [Day 2. Create Security Group](./Day%202.Create%20Security%20Group)
-- [Day 3. Create Subnet](./Day%203.Create%20Subnet)
-- [Day 4. Allocate Elastic IP](./Day%204.Allocate%20Elastic%20IP)
-- [Day 5. Create GP3 Volume](./Day%205.Create%20GP3%20Volume)
-- [Day 6. Launch EC2 Instance](./Day%206.Launch%20EC2%20Instance)
-- [Day 7. Change EC2 Instance Type](./Day%207.Change%20EC2%20Instance%20Type)
+- [Day 01. Create Key Pair](./Day%2001.Create%20Key%20Pair)
+- [Day 02. Create Security Group](./Day%2002.Create%20Security%20Group)
+- [Day 03. Create Subnet](./Day%2003.Create%20Subnet)
+- [Day 04. Allocate Elastic IP](./Day%2004.Allocate%20Elastic%20IP)
+- [Day 05. Create GP3 Volume](./Day%2005.Create%20GP3%20Volume)
+- [Day 06. Launch EC2 Instance](./Day%2006.Launch%20EC2%20Instance)
+- [Day 07. Change EC2 Instance Type](./Day%2007.Change%20EC2%20Instance%20Type)
 
 ### 🔹 Week 2: EC2 Protection, Networking & AMI
-- [Day 8. Enable Stop Protection for EC2 Instance](./Day%208.Enable%20Stop%20Protection%20for%20EC2%20Instance)
-- [Day 9. Enable Termination Protection for EC2 Instance](./Day%209.Enable%20Termination%20Protection%20for%20EC2%20Instance)
+- [Day 08. Enable Stop Protection for EC2 Instance](./Day%2008.Enable%20Stop%20Protection%20for%20EC2%20Instance)
+- [Day 09. Enable Termination Protection for EC2 Instance](./Day%2009.Enable%20Termination%20Protection%20for%20EC2%20Instance)
 - [Day 10. Attach Elastic IP to EC2 Instance](./Day%2010.Attach%20Elastic%20IP%20to%20EC2%20Instance)
 - [Day 11. Attach Elastic Network Interface to EC2 Instance](./Day%2011.Attach%20Elastic%20Network%20Interface%20to%20EC2%20Instance)
 - [Day 12. Attach Volume to EC2 Instance](./Day%2012.Attach%20Volume%20to%20EC2%20Instance)
