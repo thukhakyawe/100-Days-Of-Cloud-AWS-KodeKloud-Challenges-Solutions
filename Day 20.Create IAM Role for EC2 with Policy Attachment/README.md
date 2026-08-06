@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2019.Attach%20IAM%20Policy%20to%20IAM%20User) | [Next Day ▶️](../Day%2021.Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20Application%20Hosting)
+<!-- NAV_END -->
+
 #### Step-by-Step Instructions (AWS Console)
 1. Log in to AWS Console
 
@@ -57,3 +61,6 @@ Click Create role.
 
 ---
 
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2019.Attach%20IAM%20Policy%20to%20IAM%20User) | [Next Day ▶️](../Day%2021.Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20Application%20Hosting)
+<!-- NAV_END -->

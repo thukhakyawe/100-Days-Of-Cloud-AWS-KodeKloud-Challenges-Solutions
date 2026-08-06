@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2020.Create%20IAM%20Role%20for%20EC2%20with%20Policy%20Attachment) | [Next Day ▶️](../Day%2022.Configuring%20Secure%20SSH%20Access%20to%20an%20EC2%20Instance)
+<!-- NAV_END -->
+
 #### Step-by-Step Instructions (AWS Console)
 1. Log in to AWS Console
 
@@ -106,3 +110,7 @@ Instance = xfusion-ec2
 ![alt text](image-1.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2020.Create%20IAM%20Role%20for%20EC2%20with%20Policy%20Attachment) | [Next Day ▶️](../Day%2022.Configuring%20Secure%20SSH%20Access%20to%20an%20EC2%20Instance)
+<!-- NAV_END -->

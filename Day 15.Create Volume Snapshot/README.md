@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2014.Terminate%20EC2%20Instance) | [Next Day ▶️](../Day%2016.Create%20IAM%20User)
+<!-- NAV_END -->
+
 #### Step-by-Step Instructions (AWS Console)
 1. Log in
 
@@ -67,3 +71,7 @@ Refresh the page if necessary.
 ![alt text](image-3.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2014.Terminate%20EC2%20Instance) | [Next Day ▶️](../Day%2016.Create%20IAM%20User)
+<!-- NAV_END -->

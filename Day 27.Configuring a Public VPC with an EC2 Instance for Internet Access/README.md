@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2026.Configuring%20an%20EC2%20Instance%20as%20a%20Web%20Server%20with%20Nginx) | [Next Day ▶️](../Day%2028.%20Creating%20a%20Private%20ECR%20Repository)
+<!-- NAV_END -->
+
 🔹 STEP 1: Create the Public VPC
 
 Go to AWS Console → VPC
@@ -159,3 +163,7 @@ Confirm:
 Public IPv4 address exists
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2026.Configuring%20an%20EC2%20Instance%20as%20a%20Web%20Server%20with%20Nginx) | [Next Day ▶️](../Day%2028.%20Creating%20a%20Private%20ECR%20Repository)
+<!-- NAV_END -->

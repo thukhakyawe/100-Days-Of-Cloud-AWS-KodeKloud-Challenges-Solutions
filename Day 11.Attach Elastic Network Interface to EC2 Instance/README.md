@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2010.Attach%20Elastic%20IP%20to%20EC2%20Instance) | [Next Day ▶️](../Day%2012.Attach%20Volume%20to%20EC2%20Instance)
+<!-- NAV_END -->
+
 #### Step-by-Step Instructions (AWS Console)
 1. Log in
 
@@ -77,3 +81,7 @@ xfusion-eni (eth1 or next index)
 ![alt text](image-4.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2010.Attach%20Elastic%20IP%20to%20EC2%20Instance) | [Next Day ▶️](../Day%2012.Attach%20Volume%20to%20EC2%20Instance)
+<!-- NAV_END -->

@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2011.Attach%20Elastic%20Network%20Interface%20to%20EC2%20Instance) | [Next Day ▶️](../Day%2013.Create%20AMI%20from%20EC2%20Instance)
+<!-- NAV_END -->
+
 #### Step-by-Step Instructions (AWS Console)
 1. Log in
 
@@ -74,3 +78,7 @@ You should now see an additional block device listed as /dev/sdb
 ![alt text](image-4.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2011.Attach%20Elastic%20Network%20Interface%20to%20EC2%20Instance) | [Next Day ▶️](../Day%2013.Create%20AMI%20from%20EC2%20Instance)
+<!-- NAV_END -->

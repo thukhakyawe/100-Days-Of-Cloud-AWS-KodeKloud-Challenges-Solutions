@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2013.Create%20AMI%20from%20EC2%20Instance) | [Next Day ▶️](../Day%2015.Create%20Volume%20Snapshot)
+<!-- NAV_END -->
+
 #### Step-by-Step Instructions (AWS Console)
 1. Log in
 
@@ -61,3 +65,7 @@ Make sure the final state = terminated before submitting.
 Refresh the page if needed.
 
 ![alt text](image-4.png)
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2013.Create%20AMI%20from%20EC2%20Instance) | [Next Day ▶️](../Day%2015.Create%20Volume%20Snapshot)
+<!-- NAV_END -->

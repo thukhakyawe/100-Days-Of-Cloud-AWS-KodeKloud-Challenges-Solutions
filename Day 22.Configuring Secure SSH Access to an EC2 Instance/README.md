@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2021.Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20Application%20Hosting) | [Next Day ▶️](../Day%2023.Data%20Migration%20Between%20S3%20Buckets%20Using%20AWS%20CLI)
+<!-- NAV_END -->
+
 #### Step-by-Step Solution
 STEP 1: Create the EC2 Instance (AWS Console)
 
@@ -112,3 +116,7 @@ ssh -i /root/.ssh/id_rsa root@ec2-54-160-142-136.compute-1.amazonaws.com
 ![alt text](image-1.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2021.Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20Application%20Hosting) | [Next Day ▶️](../Day%2023.Data%20Migration%20Between%20S3%20Buckets%20Using%20AWS%20CLI)
+<!-- NAV_END -->

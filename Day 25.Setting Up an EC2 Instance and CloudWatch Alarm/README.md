@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2024.Setting%20Up%20an%20Application%20Load%20Balancer%20for%20an%20EC2%20Instance) | [Next Day ▶️](../Day%2026.Configuring%20an%20EC2%20Instance%20as%20a%20Web%20Server%20with%20Nginx)
+<!-- NAV_END -->
+
 🔹 STEP 1: Launch the EC2 Instance
 1️⃣ Open EC2
 
@@ -107,3 +111,7 @@ Alarm action shows datacenter-sns-topic
 ![alt text](image.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2024.Setting%20Up%20an%20Application%20Load%20Balancer%20for%20an%20EC2%20Instance) | [Next Day ▶️](../Day%2026.Configuring%20an%20EC2%20Instance%20as%20a%20Web%20Server%20with%20Nginx)
+<!-- NAV_END -->

@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2025.Setting%20Up%20an%20EC2%20Instance%20and%20CloudWatch%20Alarm) | [Next Day ▶️](../Day%2027.Configuring%20a%20Public%20VPC%20with%20an%20EC2%20Instance%20for%20Internet%20Access)
+<!-- NAV_END -->
+
 🔹 STEP 1: Launch the EC2 Instance
 
 Go to AWS Console → EC2
@@ -86,3 +90,7 @@ You should see the default Nginx welcome page:
 ![alt text](image.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2025.Setting%20Up%20an%20EC2%20Instance%20and%20CloudWatch%20Alarm) | [Next Day ▶️](../Day%2027.Configuring%20a%20Public%20VPC%20with%20an%20EC2%20Instance%20for%20Internet%20Access)
+<!-- NAV_END -->

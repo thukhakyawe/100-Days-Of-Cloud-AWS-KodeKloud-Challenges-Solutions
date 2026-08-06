@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2022.Configuring%20Secure%20SSH%20Access%20to%20an%20EC2%20Instance) | [Next Day ▶️](../Day%2024.Setting%20Up%20an%20Application%20Load%20Balancer%20for%20an%20EC2%20Instance)
+<!-- NAV_END -->
+
 ✅ STEP 1 — Create the New S3 Bucket
 
 Run this command in us-east-1:
@@ -58,3 +62,7 @@ aws s3 sync s3://datacenter-s3-12806 s3://datacenter-sync-14788 --dryrun
 ```
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2022.Configuring%20Secure%20SSH%20Access%20to%20an%20EC2%20Instance) | [Next Day ▶️](../Day%2024.Setting%20Up%20an%20Application%20Load%20Balancer%20for%20an%20EC2%20Instance)
+<!-- NAV_END -->

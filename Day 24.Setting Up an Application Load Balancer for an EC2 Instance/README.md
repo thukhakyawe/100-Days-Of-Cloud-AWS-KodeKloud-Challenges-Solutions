@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2023.Data%20Migration%20Between%20S3%20Buckets%20Using%20AWS%20CLI) | [Next Day ▶️](../Day%2025.Setting%20Up%20an%20EC2%20Instance%20and%20CloudWatch%20Alarm)
+<!-- NAV_END -->
+
 🧭 Step-by-Step Solution
 🔹 STEP 1: Create Security Group for ALB (devops-sg)
 
@@ -158,3 +162,7 @@ http://<ALB-DNS>
 ✅ You should see the Nginx welcome page
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2023.Data%20Migration%20Between%20S3%20Buckets%20Using%20AWS%20CLI) | [Next Day ▶️](../Day%2025.Setting%20Up%20an%20EC2%20Instance%20and%20CloudWatch%20Alarm)
+<!-- NAV_END -->

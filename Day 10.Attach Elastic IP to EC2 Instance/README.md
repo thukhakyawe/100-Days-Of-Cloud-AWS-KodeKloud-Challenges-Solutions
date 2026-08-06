@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2009.Enable%20Termination%20Protection%20for%20EC2%20Instance) | [Next Day ▶️](../Day%2011.Attach%20Elastic%20Network%20Interface%20to%20EC2%20Instance)
+<!-- NAV_END -->
+
 ### Step-by-Step Instructions (AWS Console)
 1. Log in
 
@@ -47,3 +51,7 @@ AWS will bind the Elastic IP to the selected instance.
 ![alt text](image-2.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2009.Enable%20Termination%20Protection%20for%20EC2%20Instance) | [Next Day ▶️](../Day%2011.Attach%20Elastic%20Network%20Interface%20to%20EC2%20Instance)
+<!-- NAV_END -->

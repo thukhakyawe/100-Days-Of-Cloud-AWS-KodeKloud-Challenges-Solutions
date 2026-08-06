@@ -1,3 +1,7 @@
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2017.Create%20IAM%20Group) | [Next Day ▶️](../Day%2019.Attach%20IAM%20Policy%20to%20IAM%20User)
+<!-- NAV_END -->
+
 #### Step-by-Step Instructions (AWS Console)
 
 1. Log in to AWS Console
@@ -71,3 +75,7 @@ Click Create policy.
 ![alt text](image.png)
 
 ---
+
+<!-- NAV_START -->
+[⬅️ Back to Main README](../README.md) | [◀️ Previous Day](../Day%2017.Create%20IAM%20Group) | [Next Day ▶️](../Day%2019.Attach%20IAM%20Policy%20to%20IAM%20User)
+<!-- NAV_END -->
